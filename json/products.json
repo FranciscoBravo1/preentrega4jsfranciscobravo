@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Llaveros",
+        "descripcion": "Llaveros Personalizados.",
+        "precio": 1500.00,
+        "imagen": "assets/llaveros.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Tarjetas de Presentación",
+        "descripcion": "Tarjetas Profesionales.",
+        "precio": 18000.00,
+        "imagen": "assets/tarjetas.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Banners",
+        "descripcion": "Banners publicitarios.",
+        "precio": 36000.00,
+        "imagen": "assets/banners.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Sellos",
+        "descripcion": "Sellos Personalizados.",
+        "precio": 4500.00,
+        "imagen": "assets/sellos.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Catalogos",
+        "descripcion": "Catalogos Empresariales.",
+        "precio": 11200.00,
+        "imagen": "assets/catalogos.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Remeras Estampadas",
+        "descripcion": "Elegi tu estampa.",
+        "precio": 11800.00,
+        "imagen": "assets/remeras.jpg"
+    }
+]
